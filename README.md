@@ -1,10 +1,10 @@
-Ejercicio 1:
+Ejercicio 1 (CodigoMorse):
   Consiste en un programa que codifica y decodifica codigo morsa mediante un numero de reglas que de deben cumplir, por medio de un texto se puede convertir a morsa y por medio de   código morsa se puede convertir a texto, tiene un menú para poder realizarse las opciones depende de lo que se requiera.
   
-Ejercicio 2:
+Ejercicio 2 (NumerosRomanos):
   Consiste en un programa que convierte un numero decimal en un numero romano en un rango de 1 al 3999 poniendo el numero en decimal nos arroja el numero en romano.
 
-Ejercicio 3:
+Ejercicio 3 (Clases_Objetos):
   El ejercicio 3 nos pide la longitud de un lado para poder calcular las siguientes opciones:
     
     1.  Calcular el perimetro de un cuadrado.
@@ -18,3 +18,8 @@ Ejercicio 3:
 El link de la pagina del jdk con el netbeans 8.2 es el siguiente : https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
 
 Muchas gracias por la atencion espero les sea de su agrado y utilidad, hagamos una comunidad libre del conocimiento, saludos :)
+
+//Datos de contacto
+  Nombre : Juan Andrés Almaguer de Loera
+  Correo : utaalmaguer10@gmail.com
+  
