@@ -8,7 +8,7 @@ public class Numeros_Romanos {
         //Instancia de objeto de la clase Scanner para obtener datos introducidos en la consola.
         Scanner entrada_sc = new Scanner(System.in);
       
-        //Numero romano detectado en la consola.
+        //Variable para almacenar el numero romano que se pedira por consola.
         int N_romano_input;
         
         do {
@@ -19,7 +19,7 @@ public class Numeros_Romanos {
             //El while controla que el numero este en el rango especificado
         } while (N_romano_input < 1 || N_romano_input > 3999);
         
-        //Imprimir el resultado 
+        //Imprimir el resultado por medio de la funcion Convertir_Romano
         System.out.println(N_romano_input + " -> " + Convertir_Romano(N_romano_input));
      }
     
@@ -87,6 +87,7 @@ public class Numeros_Romanos {
                 romano = romano + "I";
             }
         }
+            
         return romano;
     }
 }
