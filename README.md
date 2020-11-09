@@ -6,9 +6,9 @@ Ejercicio 2:
 
 Ejercicio 3:
   El ejercicio 3 nos pide la longitud de un lado para poder calcular las siguientes opciones:
+    
     1.  Calcular el perimetro de un cuadrado.
     2.  Calcular el area de un cuadrado.
-    
     3.  Calcular el perimetro de un cubo.
     4.  Calcular el area de un cubo.
     5.  Calcular el volumen de un cubo.
