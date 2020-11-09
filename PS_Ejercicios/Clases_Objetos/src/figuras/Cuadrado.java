@@ -4,12 +4,12 @@ public class Cuadrado {
     //Atributo de la clase cuadrado que puede ser heredado a las clases hijas
     protected double lado = 0; 
 
-    //Funcion para configurar el lado ya que es protected y no puede ser configurado directamente
+    //Funcion para configurar el lado ya que es protected y no puede ser configurado directamente fuera de la clase
     public void configurar_lado(double p_lado){
         this.lado = p_lado;
     }
 
-    //Función para calcular perimetro
+    //Función para obtener el lado ya que no se puede acceder directamente a la propiedad por el atributo protected
     public Double obtener_lado(){
         return this.lado;
     }    
